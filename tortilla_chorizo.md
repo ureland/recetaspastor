@@ -1,8 +1,5 @@
-Tortilla
-========
-
-
-con sal
+Tortilla Chorizo
+================
 6 huevos.
 3 patatas (600 gr)
 1 cebolla pequeña.
@@ -10,3 +7,4 @@ con sal
 2 vasos de aceite de oliva.
 sal.
 una hoja de perejil.
+Chorizo
